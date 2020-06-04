@@ -1,0 +1,88 @@
+thread 2: start time: 0.016542
+thread 7: start time: 0.022055
+thread 3: start time: 0.017125
+thread 0: start time: 0.017134
+thread 0: endtime: 0.080194
+thread 6: start time: 0.017138
+thread 5: start time: 0.017141
+thread 4: start time: 0.017144
+thread 1: start time: 0.017104
+thread 8: start time: 0.034001
+thread 9: start time: 0.034051
+thread 10: start time: 0.034055
+thread 11: start time: 0.034089
+thread 12: start time: 0.034092
+thread 13: start time: 0.034126
+thread 14: start time: 0.034130
+thread 15: start time: 0.034164
+thread 16: start time: 0.034168
+thread 17: start time: 0.034203
+thread 18: start time: 0.034206
+thread 19: start time: 0.034240
+thread 20: start time: 0.034243
+thread 21: start time: 0.034277
+thread 22: start time: 0.034281
+thread 23: start time: 0.034334
+thread 24: start time: 0.034339
+thread 25: start time: 0.034374
+thread 26: start time: 0.034378
+thread 27: start time: 0.034411
+thread 28: start time: 0.034415
+thread 29: start time: 0.034449
+thread 30: start time: 0.034452
+thread 31: start time: 0.034485
+thread 32: start time: 0.034488
+thread 33: start time: 0.034522
+thread 34: start time: 0.034525
+thread 35: start time: 0.034559
+thread 36: start time: 0.034562
+thread 37: start time: 0.034596
+thread 38: start time: 0.034599
+thread 39: start time: 0.034633
+thread 40: start time: 0.034636
+thread 41: start time: 0.034673
+thread 42: start time: 0.036033
+thread 43: start time: 0.058361
+thread 1: endtime: 0.214401
+thread 3: endtime: 0.214425
+thread 2: endtime: 0.249005
+thread 5: endtime: 0.610894
+thread 4: endtime: 0.718871
+thread 6: endtime: 0.722203
+thread 7: endtime: 0.848066
+thread 8: endtime: 1.086936
+thread 10: endtime: 1.096900
+thread 9: endtime: 1.176459
+thread 25: endtime: 1.371845
+thread 28: endtime: 1.385121
+thread 24: endtime: 1.394988
+thread 27: endtime: 1.398292
+thread 35: endtime: 1.421482
+thread 23: endtime: 1.421540
+thread 40: endtime: 1.421633
+thread 29: endtime: 1.428106
+thread 30: endtime: 1.431370
+thread 39: endtime: 1.434665
+thread 38: endtime: 1.434728
+thread 26: endtime: 1.438007
+thread 37: endtime: 1.441225
+thread 42: endtime: 1.441423
+thread 36: endtime: 1.451152
+thread 41: endtime: 1.454386
+thread 43: endtime: 1.563618
+thread 12: endtime: 2.097276
+thread 11: endtime: 2.100622
+thread 15: endtime: 3.092756
+thread 13: endtime: 3.092859
+thread 14: endtime: 3.105923
+thread 16: endtime: 3.115896
+thread 17: endtime: 5.098108
+thread 18: endtime: 5.098159
+thread 21: endtime: 5.332406
+thread 20: endtime: 5.332490
+thread 22: endtime: 5.348452
+thread 19: endtime: 5.553050
+thread 31: endtime: 9.304205
+thread 33: endtime: 9.310845
+thread 32: endtime: 9.310972
+thread 34: endtime: 9.314194
